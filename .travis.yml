@@ -1,0 +1,2 @@
+languague: java
+script: mvn test -f ./t1/pom.xml
